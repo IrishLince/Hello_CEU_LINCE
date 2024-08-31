@@ -2,7 +2,7 @@
 
 HTML FOUNDATIONS
 
-TASK 
+TASK: 
 &#x2022; Create a Folder and name it "Hello_CEU"
 &#x2022; Create a File and name it "README.md"
 &#x2022; Open Terminal
